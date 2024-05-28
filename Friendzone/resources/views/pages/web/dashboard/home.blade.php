@@ -342,7 +342,7 @@
                         <img src="{{ asset('assets/images/about/suami.jpeg') }}" class="img-responsive"
                             alt="icon" title="icon" style="max-width: 100%; height: auto;">
                         <div class="caption text-center">
-                            <h4>Felix Aldi I Simanjuntak</h4>
+                            <h4>Natal Tri Putra Marpaung </h4>
                             <ul class="list-inline social">
                                 <li><a href="https://www.facebook.com/" target="_blank"><i
                                             class="icofont icofont-social-facebook"></i></a></li>
@@ -359,7 +359,7 @@
                         <img src="{{ asset('assets/images/about/istri.jpeg') }}" class="img-responsive"
                             alt="icon" title="icon" style="max-width: 100%; height: auto;">
                         <div class="caption text-center">
-                            <h4>Dian Anggi</h4>
+                            <h4>Rosairoh Magdalena Simanjuntak</h4>
                             <ul class="list-inline social">
                                 <li><a href="https://www.facebook.com/" target="_blank"><i
                                             class="icofont icofont-social-facebook"></i></a></li>
